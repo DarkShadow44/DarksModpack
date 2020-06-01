@@ -1,14 +1,3 @@
-# Dark's Fixes and Tweaks
-This mod attempts to fix incompatibilities and balance problems between mods.
+# Dark's Modpack
 
-Mostly for my own modpack, but might be of use for others as well.
-Please report issues to my github!
-
-Fixes the following crashes:
-- Crash in Mad Clowns Science when using with Bob's Technology + Science Cost Tweaker  + pY Coal Processing
-- Crash when using Science Cost Tweaker + Angel's Bio Processing
-- Crash when using Amator Phasma's Coal & Steam + Angel's Bio Processing
-- Crash when using PyCoal Touched By an Angel + Angel's Industries
-- Fix PyCoal Touched By an Angel "heavy water" crash
-- Fix crash with Py Alien Life and Bio Industries
-
+My own factorio modpack. Feel free to report issues to https://github.com/DarkShadow44/DarksFixesAndTweaks/issues.
